@@ -1,1 +1,0 @@
-../../../TrAnimate/TrAnimate/TrCustomCurvedAnimation.h

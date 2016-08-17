@@ -1,1 +1,0 @@
-../../../SHEmailValidator/SHEmailValidator/SHValidationResult.h
