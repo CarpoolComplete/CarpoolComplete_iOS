@@ -1,0 +1,1 @@
+../../../TrAnimate/TrAnimate/TrScaleAnimation.h

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__57-[WebService signupWithUserObj:progress:success:failure:]_block_invoke.114:WebService.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "error.code">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UserObj currentDictionary]:UserObj.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[UpgradeViewController onRestoredPurchases]:UpgradeViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalService sharedInstance].user_me.my_user.user_status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SideMenuViewController viewDidLoad]:SideMenuViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalService sharedInstance].user_me.my_user">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__40-[LoginViewController onClickBtnSignIn:]_block_invoke_2:LoginViewController.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

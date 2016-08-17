@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2ae65937-6fa3-de4b-94da-b852bffe6c8d++3149",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2ae65937-6fa3-de4b-94da-b852bffe6c8d++3149" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2ae65937-6fa3-de4b-94da-b852bffe6c8d++3149" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6948963E-2640-402E-859E-71D4EA251E11",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2ae65937-6fa3-de4b-94da-b852bffe6c8d++3149" : "Carpool\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Carpool",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iOS\/Carpool.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.120:8443\/svn\/TMMOBILE",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2ae65937-6fa3-de4b-94da-b852bffe6c8d++3149"
+    }
+  ]
+}
